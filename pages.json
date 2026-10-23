@@ -1,0 +1,38 @@
+{
+  "pages": [
+    {
+      "path": "pages/login/login",
+      "style": { "navigationBarTitleText": "登录" }
+    },
+    {
+      "path": "pages/index/index",
+      "style": { "navigationBarTitleText": "首页" }
+    },
+    {
+      "path": "pages/course/course",
+      "style": { "navigationBarTitleText": "课表" }
+    },
+    {
+      "path": "pages/lostfound/lostfound",
+      "style": { "navigationBarTitleText": "失物招领" }
+    },
+    {
+      "path": "pages/notice/notice",
+      "style": { "navigationBarTitleText": "校园通知" }
+    },
+    {
+      "path": "pages/classroom/classroom",
+      "style": { "navigationBarTitleText": "空教室查询" }
+    },
+    {
+      "path": "pages/ai/ai",
+      "style": { "navigationBarTitleText": "DeepSeek AI 助手" }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "校园智能app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}
